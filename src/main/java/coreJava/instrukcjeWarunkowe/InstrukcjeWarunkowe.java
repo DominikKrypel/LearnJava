@@ -30,7 +30,7 @@ public class InstrukcjeWarunkowe {
             System.out.println("Czy a jest większe od b : Nie number 2"); // jak jest wiele instrukcji to potrzebujemy nawias klamrowy, czyli grupujemy instrukcje
         }
         else
-            System.out.println("Czy a jest większe od b : Nie, jest równe");
+            System.out.println("Czy a jest większe od b : Nie, jest równe"); // Nie jest w nawiasie klamrowym ale jeżeli spełni warunek to się wykona bo jest bezpośrenio pod "else"
             System.out.println("Ta instrukcja jest bez klamry, czyli i tak się wykona, nie istotne czy else spełnia warunek"); // nie jest w nawiasie klamrowym, czyli i tak się wykona
 
     }
