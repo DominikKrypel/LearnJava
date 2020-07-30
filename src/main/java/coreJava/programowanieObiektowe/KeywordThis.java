@@ -1,4 +1,4 @@
-package coreJava;
+package coreJava.programowanieObiektowe;
 
 public class KeywordThis {
 
