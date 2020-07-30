@@ -1,4 +1,4 @@
-package coreJava;
+package coreJava.operatory;
 
 public class OperatoryRelacyjne {
 

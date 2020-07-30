@@ -1,4 +1,4 @@
-package coreJava;
+package coreJava.zmienne;
 
 public class Zmienne {
 
