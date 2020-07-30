@@ -13,7 +13,7 @@ public class OperatoryRelacyjne {
         <   - mniejsze od
         >=  - większe bądź równe
         <=  - mniejsze bądź równe
-        
+
          */
 
         // opis operatora bollean
