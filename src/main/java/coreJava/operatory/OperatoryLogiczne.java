@@ -34,24 +34,22 @@ public class OperatoryLogiczne {
 
         if (!(a == b))
             System.out.println("Czy a nie jest równe b : TAK");
-        else {
+        else
             System.out.println("Czy a nie jest równe b : NIE");
-        }
+
 
         //Przykład koniunkcji
 
         if (a == b && c > 7)
             System.out.println("Koniunkcja, czy spełniam dwa wyrażenia : Tak");
-        else {
+        else
             System.out.println("Koniunkcja, czy spełniam dwa wyrażenia : Nie");
-        }
 
         //Przykład alternatywy
 
         if (a == b || c > 7)
             System.out.println("Alternatywa, czy spełniam przynajmniej jedno wyrażenie : Tak");
-        else {
+        else
             System.out.println("Alternatywa, czy spełniam przynajmniej jedno wyrażenie : Nie");
-        }
     }
 }
