@@ -22,5 +22,20 @@ public class For {
             System.out.println(kursyProgramowania[i]);
 
         }
+
+        System.out.println("***************************");
+
+        int[] liczby = {1, 3, 5, 6, 8,10};
+
+        int suma = 0;
+
+        for (int i = 0; i < liczby.length; i++) {
+
+            suma = suma + liczby[i];
+
+        }
+
+        System.out.println("Suma liczb : " + suma);
+
     }
 }
