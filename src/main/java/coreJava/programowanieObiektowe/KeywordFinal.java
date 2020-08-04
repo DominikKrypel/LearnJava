@@ -4,7 +4,7 @@ import java.util.Date;
 
 public class KeywordFinal {
 
-    public static void mainf (String[] args){
+    public static void main (String[] args){
 
         final double PI = 3.14;                 //final wstawia się, żeby przypadki nikt tego nie zmienił
 
