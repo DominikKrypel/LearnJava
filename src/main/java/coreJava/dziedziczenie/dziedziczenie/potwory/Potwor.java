@@ -8,7 +8,7 @@ public class Potwor {
     {
 
         /*
-        domyślna implementacja ataku
+        Bazowe instrukcje ataku
          */
 
         System.out.println("To jest metoda atakuj z klasy Potwór");
@@ -24,6 +24,7 @@ public class Potwor {
         this.predkoscChodzenia = predkoscChodzenia;
         this.zywotnosc = zywotnosc;
         System.out.println("Niedomyślny konstruktor z klasy Potwór");
+        System.out.println("**************************************");
     }
 
 
