@@ -1,6 +1,6 @@
 package coreJava.dziedziczenie.dziedziczenie.potwory;
 
-public class Potwor {
+public class Potwor {                        // Przykład klasy abstrakcyjnej. Nie zaprezentujemy w grze tej postaci. To nie jest Zombie, Szkielet
     public double predkoscChodzenia = 10;    //protected - chciałbym pozwolić Ci dziedziczyć po tym zawsze. Najczęściej na protected ustawia się metody
     public double zywotnosc;
 
