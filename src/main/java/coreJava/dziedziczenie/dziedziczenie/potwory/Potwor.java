@@ -1,7 +1,7 @@
 package coreJava.dziedziczenie.dziedziczenie.potwory;
 
 public class Potwor {
-    public double predkoscChodzenia = 10;
+    protected double predkoscChodzenia = 10;    //protected - chciałbym pozwolić Ci dziedziczyć po tym zawsze. Najczęściej na protected ustawia się metody
     public double zywotnosc;
 
     public void atakuj()        //dzieki słowu : 'public' mam dostęp do tej metody, która jest w innym package
